@@ -1,0 +1,9 @@
+.box{
+    height: 100vh;
+    background-color: red;
+    text-align: center;
+}
+.text{
+
+    font-size: 70px;
+}
